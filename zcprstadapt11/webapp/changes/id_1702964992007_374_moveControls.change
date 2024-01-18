@@ -1,0 +1,71 @@
+{
+	"fileName": "id_1702964992007_374_moveControls",
+	"fileType": "change",
+	"changeType": "moveControls",
+	"moduleName": "",
+	"reference": "customer.zcprstadapt11",
+	"packageName": "$TMP",
+	"content": {
+		"movedElements": [{
+			"selector": {
+				"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_ContractMaintain--DeliveryAndPaymentTerm::Section",
+				"idIsLocal": false
+			},
+			"sourceIndex": 3,
+			"targetIndex": 2
+		}],
+		"source": {
+			"selector": {
+				"aggregation": "sections",
+				"type": "sap.uxap.ObjectPageLayout",
+				"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_ContractMaintain--objectPage",
+				"idIsLocal": false
+			}
+		},
+		"target": {
+			"selector": {
+				"aggregation": "sections",
+				"type": "sap.uxap.ObjectPageLayout",
+				"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_ContractMaintain--objectPage",
+				"idIsLocal": false
+			}
+		}
+	},
+	"selector": {
+		"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_ContractMaintain--objectPage",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/ui.s2p.mm.pur.ctr.maintain.sts1/changes/",
+	"projectId": "customer.zcprstadapt11",
+	"creation": "2023-12-19T05:49:53.257Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.84.40",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": "move"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {
+		"source": {
+			"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_ContractMaintain--objectPage",
+			"idIsLocal": false
+		},
+		"target": {
+			"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_ContractMaintain--objectPage",
+			"idIsLocal": false
+		},
+		"movedElements": [{
+			"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_ContractMaintain--DeliveryAndPaymentTerm::Section",
+			"idIsLocal": false
+		}]
+	},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}

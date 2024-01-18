@@ -1,0 +1,37 @@
+{
+	"fileName": "id_1702965521688_547_addXML",
+	"fileType": "change",
+	"changeType": "addXML",
+	"moduleName": "customer/zcprstadapt11/changes/fragments/ActionButton.fragment.xml",
+	"reference": "customer.zcprstadapt11",
+	"packageName": "$TMP",
+	"content": {
+		"targetAggregation": "content",
+		"index": 15,
+		"fragmentPath": "fragments/ActionButton.fragment.xml"
+	},
+	"selector": {
+		"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ListReport.view.ListReport::C_ContractMaintain--template::ListReport::TableToolbar",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/ui.s2p.mm.pur.ctr.maintain.sts1/changes/",
+	"projectId": "customer.zcprstadapt11",
+	"creation": "2023-12-19T05:58:41.775Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.84.40",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": "addXML"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": true,
+	"variantReference": "",
+	"appDescriptorChange": false
+}

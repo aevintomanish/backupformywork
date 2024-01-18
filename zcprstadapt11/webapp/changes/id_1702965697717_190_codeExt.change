@@ -1,0 +1,34 @@
+{
+	"fileName": "id_1702965697717_190_codeExt",
+	"fileType": "change",
+	"changeType": "codeExt",
+	"moduleName": "customer/zcprstadapt11/changes/coding/customcontroller",
+	"reference": "customer.zcprstadapt11",
+	"packageName": "$TMP",
+	"content": {
+		"codeRef": "coding/customcontroller.js"
+	},
+	"selector": {
+		"controllerName": "sap.suite.ui.generic.template.ListReport.view.ListReport"
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/ui.s2p.mm.pur.ctr.maintain.sts1/changes/",
+	"projectId": "customer.zcprstadapt11",
+	"creation": "2023-12-19T06:01:37.719Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.84.40",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": ""
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}

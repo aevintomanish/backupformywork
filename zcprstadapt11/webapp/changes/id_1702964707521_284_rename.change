@@ -1,0 +1,40 @@
+{
+	"fileName": "id_1702964707521_284_rename",
+	"fileType": "change",
+	"changeType": "rename",
+	"moduleName": "",
+	"reference": "customer.zcprstadapt11",
+	"packageName": "$TMP",
+	"content": {
+		"originalControlType": "sap.m.Button"
+	},
+	"selector": {
+		"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ListReport.view.ListReport::C_ContractMaintain--template",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {
+		"newText": {
+			"value": "Manage Template",
+			"type": "XBUT"
+		}
+	},
+	"namespace": "apps/ui.s2p.mm.pur.ctr.maintain.sts1/changes/",
+	"projectId": "customer.zcprstadapt11",
+	"creation": "2023-12-19T05:45:07.727Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.84.40",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": "rename"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}

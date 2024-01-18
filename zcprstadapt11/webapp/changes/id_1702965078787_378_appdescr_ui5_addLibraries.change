@@ -1,0 +1,38 @@
+{
+	"fileName": "id_1702965078787_378_appdescr_ui5_addLibraries",
+	"fileType": "change",
+	"changeType": "appdescr_ui5_addLibraries",
+	"moduleName": "",
+	"reference": "customer.zcprstadapt11",
+	"packageName": "",
+	"content": {
+		"libraries": {
+			"sap.ui.comp": {
+				"minVersion": "1.81",
+				"lazy": false
+			}
+		}
+	},
+	"selector": {
+		"id": ""
+	},
+	"layer": "CUSTOMER_BASE",
+	"namespace": "apps/customer.zcprstadapt11/changes/",
+	"projectId": "customer.zcprstadapt11",
+	"creation": "2023-12-19T05:51:19.025Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.84.40",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": ""
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": true
+}

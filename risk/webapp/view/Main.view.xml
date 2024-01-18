@@ -1,0 +1,37 @@
+<mvc:View
+    xmlns:table="sap.ui.table"
+    controllerName="risk.controller.Main"
+    xmlns:mvc="sap.ui.core.mvc"
+    displayBlock="true"
+    xmlns="sap.m"
+>
+    <Page>
+    <Text text='{userapi>/firstname}' />
+  <Button icon='sap-icon://account' tooltip='Share' text="{userapi>/firstname} {userapi>/lastname}" />
+    
+          <Table id="mytable" items="{apimodel>/resources/0/groups}">
+    <columns>
+    <Column>
+    <Text text="Value" />
+    </Column>
+    <Column>
+    <Text text="Display" />
+    </Column>
+    <Column>
+    <Text text="Type" />
+    </Column>
+    </columns>
+    <ColumnListItem>
+    <cells>
+        <Text text='{apimodel>value}' />
+    </cells>
+    <cells>
+        <Text text='{apimodel>display}' />
+    </cells>
+      <cells>
+        <Text text='{apimodel>type}' />
+    </cells>
+    </ColumnListItem>
+    </Table>
+    </Page>
+</mvc:View>

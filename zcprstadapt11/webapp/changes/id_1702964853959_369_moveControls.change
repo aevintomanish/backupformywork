@@ -1,0 +1,71 @@
+{
+	"fileName": "id_1702964853959_369_moveControls",
+	"fileType": "change",
+	"changeType": "moveControls",
+	"moduleName": "",
+	"reference": "customer.zcprstadapt11",
+	"packageName": "$TMP",
+	"content": {
+		"movedElements": [{
+			"selector": {
+				"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_ContractMaintain--header::headerEditable::SupplierOperationalScore::RatingIndicatorFooter",
+				"idIsLocal": false
+			},
+			"sourceIndex": 3,
+			"targetIndex": 0
+		}],
+		"source": {
+			"selector": {
+				"aggregation": "items",
+				"type": "sap.m.VBox",
+				"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_ContractMaintain--header::headerEditable::SupplierOperationalScore::RatingIndicatorVBox",
+				"idIsLocal": false
+			}
+		},
+		"target": {
+			"selector": {
+				"aggregation": "items",
+				"type": "sap.m.VBox",
+				"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_ContractMaintain--header::headerEditable::SupplierOperationalScore::RatingIndicatorVBox",
+				"idIsLocal": false
+			}
+		}
+	},
+	"selector": {
+		"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_ContractMaintain--header::headerEditable::SupplierOperationalScore::RatingIndicatorVBox",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/ui.s2p.mm.pur.ctr.maintain.sts1/changes/",
+	"projectId": "customer.zcprstadapt11",
+	"creation": "2023-12-19T05:47:34.255Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.84.40",
+		"sourceChangeFileName": "",
+		"compositeCommand": "id_1702964853958_368_composite",
+		"command": "move"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {
+		"source": {
+			"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_ContractMaintain--header::headerEditable::SupplierOperationalScore::RatingIndicatorVBox",
+			"idIsLocal": false
+		},
+		"target": {
+			"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_ContractMaintain--header::headerEditable::SupplierOperationalScore::RatingIndicatorVBox",
+			"idIsLocal": false
+		},
+		"movedElements": [{
+			"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_ContractMaintain--header::headerEditable::SupplierOperationalScore::RatingIndicatorFooter",
+			"idIsLocal": false
+		}]
+	},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}

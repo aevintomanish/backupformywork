@@ -1,0 +1,71 @@
+{
+	"fileName": "id_1702964757079_285_moveControls",
+	"fileType": "change",
+	"changeType": "moveControls",
+	"moduleName": "",
+	"reference": "customer.zcprstadapt11",
+	"packageName": "$TMP",
+	"content": {
+		"movedElements": [{
+			"selector": {
+				"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ListReport.view.ListReport::C_ContractMaintain--addEntry",
+				"idIsLocal": false
+			},
+			"sourceIndex": 9,
+			"targetIndex": 6
+		}],
+		"source": {
+			"selector": {
+				"aggregation": "content",
+				"type": "sap.m.OverflowToolbar",
+				"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ListReport.view.ListReport::C_ContractMaintain--template::ListReport::TableToolbar",
+				"idIsLocal": false
+			}
+		},
+		"target": {
+			"selector": {
+				"aggregation": "content",
+				"type": "sap.m.OverflowToolbar",
+				"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ListReport.view.ListReport::C_ContractMaintain--template::ListReport::TableToolbar",
+				"idIsLocal": false
+			}
+		}
+	},
+	"selector": {
+		"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ListReport.view.ListReport::C_ContractMaintain--template::ListReport::TableToolbar",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/ui.s2p.mm.pur.ctr.maintain.sts1/changes/",
+	"projectId": "customer.zcprstadapt11",
+	"creation": "2023-12-19T05:45:57.307Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.84.40",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": "move"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {
+		"source": {
+			"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ListReport.view.ListReport::C_ContractMaintain--template::ListReport::TableToolbar",
+			"idIsLocal": false
+		},
+		"target": {
+			"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ListReport.view.ListReport::C_ContractMaintain--template::ListReport::TableToolbar",
+			"idIsLocal": false
+		},
+		"movedElements": [{
+			"id": "ui.s2p.mm.pur.ctr.maintain.sts1::sap.suite.ui.generic.template.ListReport.view.ListReport::C_ContractMaintain--addEntry",
+			"idIsLocal": false
+		}]
+	},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}
